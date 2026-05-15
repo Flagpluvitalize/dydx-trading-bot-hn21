@@ -1,4 +1,4 @@
-# 
+# updated dydx trading bot Plugin | front-running-detection + MEV-strategies offers the most advanced dydx trading bot, with front-running-detection and MEV-strategies. Ideal for
 
 
 
